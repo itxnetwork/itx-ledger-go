@@ -1,11 +1,11 @@
-module github.com/evmos/evmos-ledger-go
+module github.com/itx/itx-ledger-go
 
 go 1.19
 
 require (
 	github.com/cosmos/cosmos-sdk v0.46.10
 	github.com/ethereum/go-ethereum v1.10.26
-	github.com/evmos/evmos/v12 v12.0.0-20230310230306-719363fbb92f
+	github.com/itx/itx/v12 v12.0.0-20230310230306-719363fbb92f
 	github.com/stretchr/testify v1.8.2
 	github.com/zondax/hid v0.9.1
 )
@@ -174,7 +174,7 @@ require (
 )
 
 replace (
-	github.com/cosmos/cosmos-sdk => github.com/evmos/cosmos-sdk v0.46.11-ledger
+	github.com/cosmos/cosmos-sdk => github.com/itx/cosmos-sdk v0.46.11-ledger
 	github.com/gogo/protobuf => github.com/regen-network/protobuf v1.3.3-alpha.regen.1
 	github.com/tendermint/tendermint => github.com/informalsystems/tendermint v0.34.25
 )
