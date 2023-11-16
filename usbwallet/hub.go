@@ -27,7 +27,7 @@ import (
 	"runtime"
 
 	gethaccounts "github.com/ethereum/go-ethereum/accounts"
-	"github.com/itx/itx-ledger-go/accounts"
+	"github.com/itxnetwork/itx-ledger-go/accounts"
 	usb "github.com/zondax/hid"
 )
 

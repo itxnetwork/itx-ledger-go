@@ -4,7 +4,7 @@ package mocks
 
 import (
 	apitypes "github.com/ethereum/go-ethereum/signer/core/apitypes"
-	accounts "github.com/itx/itx-ledger-go/accounts"
+	accounts "github.com/itxnetwork/itx-ledger-go/accounts"
 
 	big "math/big"
 

@@ -1,6 +1,6 @@
 # itx-ledger-go
 
-Helper library for implementing Ledger support in the Itx CLI. This wraps [Ethereum-Ledger-Go](https://github.com/itx/ethereum-ledger-go) to provide
+Helper library for implementing Ledger support in the Itx CLI. This wraps [Ethereum-Ledger-Go](https://github.com/itxnetwork/ethereum-ledger-go) to provide
 a Ledger interface that is compatible (with minor additions) with the Cosmos SDK.
 
 ## Overview

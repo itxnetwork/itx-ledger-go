@@ -5,11 +5,11 @@ import (
 	gethaccounts "github.com/ethereum/go-ethereum/accounts"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/itx/itx-ledger-go/accounts"
-	"github.com/itx/itx-ledger-go/ledger"
-	"github.com/itx/itx/v12/app"
-	"github.com/itx/itx/v12/encoding"
-	"github.com/itx/itx/v12/ethereum/eip712"
+	"github.com/itxnetwork/itx-ledger-go/accounts"
+	"github.com/itxnetwork/itx-ledger-go/ledger"
+	"github.com/itxnetwork/itx/v12/app"
+	"github.com/itxnetwork/itx/v12/encoding"
+	"github.com/itxnetwork/itx/v12/ethereum/eip712"
 )
 
 // Test Mnemonic:

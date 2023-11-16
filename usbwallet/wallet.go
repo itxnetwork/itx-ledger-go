@@ -30,7 +30,7 @@ import (
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/ethereum/go-ethereum/signer/core/apitypes"
-	"github.com/itx/itx-ledger-go/accounts"
+	"github.com/itxnetwork/itx-ledger-go/accounts"
 	usb "github.com/zondax/hid"
 )
 
